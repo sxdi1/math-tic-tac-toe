@@ -1,0 +1,74 @@
+Welcome to mathematical tic-tac-toe! Here are the rules and how to play: 
+Mathematical tic-tac-toe is a two player game, it can be played against another player, or againtst the computer. 
+In this game, players take turns placing digits 1-9 on a 3x3 board. 
+To win, one of the players must place the number that forms a row, column, or diagonal who's sum adds up to 15.
+The only rule in this game is that the first move cannot be the digit 5 placed in the middle as this is a guaranteed win.
+
+==============================================================================
+Please select a game mode.
+
+Mode 1: Player vs. Player
+Mode 2: Player vs. Computer
+Enter '1' or '2': 
+
+1
+What box would you like to place in? 
+
+5
+What number would you like to place? 
+
+3
+     |     |     
+     |     |   
+_____|_____|_____
+     |     |     
+     |     |  3
+_____|_____|_____
+     |     |    
+     |     |   
+     |     |     
+
+What box would you like to place in? 
+
+3
+What number would you like to place? 
+
+7
+     |     |     
+     |     |   
+_____|_____|_____
+     |     |     
+  7  |     |  3
+_____|_____|_____
+     |     |    
+     |     |   
+     |     |     
+
+What box would you like to place in? 
+
+4
+What number would you like to place? 
+
+5
+     |     |     
+     |     |   
+_____|_____|_____
+     |     |     
+  7  |  5  |  3
+_____|_____|_____
+     |     |    
+     |     |   
+     |     |     
+
+
+ Player 1 won!
+game over
+type y to play again: 
+n
+
+Game 1 stats: 
+The winner of this game was player 1
+Player 1 won horizontally  in row 4
+Player 1 had: 2 moves
+Player 2 had: 1 moves
+thanks for playing.
